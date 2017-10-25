@@ -1,0 +1,6 @@
+# Product version 10.8
+# Build version 4795
+setVersionVar currentJobCore "LoadCell";
+setVersionVar stlDirectory "Z:/MIRACLE/BIROMED-Lab/UsabilityTeleoperationSystem_Gregorio_Esther/Gregorio/02_Mechanical_Design/FT_Sensor_Holder";
+setVersionVar stlPath "Z:/MIRACLE/BIROMED-Lab/UsabilityTeleoperationSystem_Gregorio_Esther/Gregorio/02_Mechanical_Design/FT_Sensor_Holder/LoadCell.STL";
+setVersionVar toolpathFile "LoadCell.cmb";

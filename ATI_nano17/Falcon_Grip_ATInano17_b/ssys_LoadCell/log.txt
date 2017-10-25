@@ -1,0 +1,45 @@
+session {10/3 5:06:34pm > andrea opened job C:/ProgramData/Stratasys/FDMControlCenter/10.8/jobs/andrea1d613f515b83ded62e9ab39a/Default.sjb.  Insight 10.8 (4795).}
+msg {5:06:36pm > Read 296914 facets in 0:01 from "Z:/MIRACLE/BIROMED-Lab/UsabilityTeleoperationSystem_Gregorio_Esther/Gregorio/02_Mechanical_Design/FT_Sensor_Holder/LoadCell.STL"}
+msg {5:06:36pm > STL comment: solid LoadCell}
+msg {5:06:36pm > Bounding box of this STL X, Y, Z:}
+msg {5:06:36pm >       min = (0.0000, 0.0000, 0.0000)}
+msg {5:06:36pm >       max = (32.5000, 32.5000, 8.5000)}
+msg {5:06:36pm > Done loading STL file after 2 sec.}
+msg {5:06:48pm > 	Slice height:	0.1778}
+msg {5:06:49pm > Done slicing after 1 sec.}
+msg {5:06:51pm > Supports removed}
+msg {5:06:51pm > 	Support style:	SMART}
+msg {5:06:52pm > Inspecting part curves}
+msg {5:06:52pm > Generating supports}
+msg {5:06:53pm > Done generating supports after 2 sec.}
+msg {5:07:00pm > 	Part fill style:	One contour /  rasters}
+msg {5:07:00pm > 	Part interior style:	Sparse - high density}
+msg {5:07:00pm > 	Contour width:	0.3556}
+msg {5:07:00pm > 	Part raster width:	0.4064}
+msg {5:07:02pm > Done generating toolpaths after 2 sec.}
+msg {5:07:06pm > Done writing boundary curves.}
+msg {5:07:07pm > CMB moved to envelope center.}
+msg {5:07:07pm > Toolpath Information}
+msg {5:07:07pm > 	Est. build time:	37 min }
+msg {5:07:07pm > 	Model material:	3.384 cm³}
+msg {5:07:07pm > 	Support material:	0.946 cm³}
+msg {5:07:07pm > Done writing CMB file.}
+msg {5:07:07pm > Job Summary}
+msg {5:07:07pm > 	Full job path:	Z:/MIRACLE/BIROMED-Lab/UsabilityTeleoperationSystem_Gregorio_Esther/Gregorio/02_Mechanical_Design/FT_Sensor_Holder/ssys_LoadCell/LoadCell.sjb}
+msg {5:07:07pm > 	Toolpath file name:	LoadCell.cmb}
+msg {5:07:07pm > 	Modeler:		Fortus 250mc}
+msg {5:07:07pm > 	Est. build time:	37 min }
+msg {5:07:07pm > 	Model material:	3.384 cm³,	T14,	ABS P430}
+msg {5:07:07pm > 	Support material:	0.946 cm³,	T16,	ABS SR30}
+msg {5:07:07pm > 	Slice height:	0.1778}
+msg {5:07:07pm > 	Part fill style:	One contour /  rasters}
+msg {5:07:07pm > 	Part interior style:	Sparse - high density}
+msg {5:07:07pm > 	Visible surface style:	Enhanced}
+msg {5:07:07pm > 	Support style:	SMART}
+msg {5:07:07pm > 	Contour width:	0.5080}
+msg {5:07:07pm > 	Number of contours:	6.3500}
+msg {5:07:07pm > 	Part interior contours:	0.3556}
+msg {5:07:07pm > 	Part raster width:	0.4064}
+msg {5:07:07pm > 	Application:	Insight 10.8, Build version: 4795}
+msg {5:07:07pm > Saved job:  Z:/MIRACLE/BIROMED-Lab/UsabilityTeleoperationSystem_Gregorio_Esther/Gregorio/02_Mechanical_Design/FT_Sensor_Holder/ssys_LoadCell/LoadCell.sjb,  approximate build time 37 min }
+session {10/4 12:32:45pm > andrea closed job.}

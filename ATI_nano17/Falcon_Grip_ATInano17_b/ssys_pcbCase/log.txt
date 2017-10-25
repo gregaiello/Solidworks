@@ -1,0 +1,45 @@
+session {10/4 6:25:53pm > andrea opened job C:/ProgramData/Stratasys/FDMControlCenter/10.8/jobs/andrea767b307b11abdb3c29c64024/Default.sjb.  Insight 10.8 (4795).}
+msg {6:25:57pm > Read 814292 facets in 0:03 from "Z:/MIRACLE/BIROMED-Lab/UsabilityTeleoperationSystem_Gregorio_Esther/Gregorio/02_Mechanical_Design/FT_Sensor_Holder/pcbCase.STL"}
+msg {6:25:57pm > STL comment: solid pcbCase}
+msg {6:25:57pm > Bounding box of this STL X, Y, Z:}
+msg {6:25:57pm >       min = (0.0000, 0.0000, 0.0000)}
+msg {6:25:57pm >       max = (65.0000, 38.0000, 65.0000)}
+msg {6:25:57pm > Done loading STL file after 4 sec.}
+msg {6:26:06pm > 	Slice height:	0.1778}
+msg {6:26:10pm > Done slicing after 4 sec.}
+msg {6:26:11pm > Supports removed}
+msg {6:26:11pm > 	Support style:	SMART}
+msg {6:26:12pm > Inspecting part curves}
+msg {6:26:12pm > Generating supports}
+msg {6:26:17pm > Done generating supports after 6 sec.}
+msg {6:26:18pm > 	Part fill style:	One contour /  rasters}
+msg {6:26:18pm > 	Part interior style:	Sparse - high density}
+msg {6:26:18pm > 	Contour width:	0.3556}
+msg {6:26:18pm > 	Part raster width:	0.4064}
+msg {6:26:23pm > Done generating toolpaths after 5 sec.}
+msg {6:26:26pm > Done writing boundary curves.}
+msg {6:26:27pm > CMB moved to envelope center.}
+msg {6:26:28pm > Toolpath Information}
+msg {6:26:28pm > 	Est. build time:	5 hr 1 min }
+msg {6:26:28pm > 	Model material:	22.167 cm³}
+msg {6:26:28pm > 	Support material:	14.693 cm³}
+msg {6:26:28pm > Done writing CMB file.}
+msg {6:26:28pm > Job Summary}
+msg {6:26:28pm > 	Full job path:	Z:/MIRACLE/BIROMED-Lab/UsabilityTeleoperationSystem_Gregorio_Esther/Gregorio/02_Mechanical_Design/FT_Sensor_Holder/ssys_pcbCase/pcbCase.sjb}
+msg {6:26:28pm > 	Toolpath file name:	pcbCase.cmb}
+msg {6:26:28pm > 	Modeler:		Fortus 250mc}
+msg {6:26:28pm > 	Est. build time:	5 hr 1 min }
+msg {6:26:28pm > 	Model material:	22.167 cm³,	T14,	ABS P430}
+msg {6:26:28pm > 	Support material:	14.693 cm³,	T16,	ABS SR30}
+msg {6:26:28pm > 	Slice height:	0.1778}
+msg {6:26:28pm > 	Part fill style:	One contour /  rasters}
+msg {6:26:28pm > 	Part interior style:	Sparse - high density}
+msg {6:26:28pm > 	Visible surface style:	Enhanced}
+msg {6:26:28pm > 	Support style:	SMART}
+msg {6:26:28pm > 	Contour width:	0.5080}
+msg {6:26:28pm > 	Number of contours:	6.3500}
+msg {6:26:28pm > 	Part interior contours:	0.3556}
+msg {6:26:28pm > 	Part raster width:	0.4064}
+msg {6:26:28pm > 	Application:	Insight 10.8, Build version: 4795}
+msg {6:26:28pm > Saved job:  Z:/MIRACLE/BIROMED-Lab/UsabilityTeleoperationSystem_Gregorio_Esther/Gregorio/02_Mechanical_Design/FT_Sensor_Holder/ssys_pcbCase/pcbCase.sjb,  approximate build time 5 hr 1 min }
+session {10/4 6:26:33pm > andrea closed job.}
